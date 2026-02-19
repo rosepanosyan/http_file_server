@@ -40,19 +40,3 @@
 # debug information files
 *.dwo
 
-# CMake build directories
-build/
-cmake-build-*/
-
-# CMake generated files
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
-Makefile
-
-# Logs
-*.log
-
-# macOS
-.DS_Store
-
