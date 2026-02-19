@@ -1,0 +1,3 @@
+/mnt/data/cpp_internship_projects/http_file_server/build/CMakeFiles/http_file_server.dir
+/mnt/data/cpp_internship_projects/http_file_server/build/CMakeFiles/edit_cache.dir
+/mnt/data/cpp_internship_projects/http_file_server/build/CMakeFiles/rebuild_cache.dir
